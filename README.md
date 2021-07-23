@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Roman 
+### Hi there 👋, my name is Román Pérez
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/iscromanpc/)
 
 I am Román Pérez Contreras, I am here to help projects like yours to improve and maintain the effectiveness of their applications and information systems through analysis, planning, development, implementation, problem solving, optimization and maintenance of them.
